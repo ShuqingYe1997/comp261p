@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/UCI_MCS/261P/proj1/Wordset.hpp
+string
+-
+
+/cygdrive/d/UCI_MCS/261P/proj1/convert.hpp
+string
+-
+Wordset.hpp
+/cygdrive/d/UCI_MCS/261P/proj1/Wordset.hpp
+
+/cygdrive/d/UCI_MCS/261P/proj1/main.cpp
+Wordset.hpp
+/cygdrive/d/UCI_MCS/261P/proj1/Wordset.hpp
+convert.hpp
+/cygdrive/d/UCI_MCS/261P/proj1/convert.hpp
+string
+-
+fstream
+-
+iostream
+-
+

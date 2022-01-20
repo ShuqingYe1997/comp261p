@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/UCI_MCS/261P/proj2/MyRBTree.h
+runtimeexcept.hpp
+/cygdrive/d/UCI_MCS/261P/proj2/runtimeexcept.hpp
+string
+-
+vector
+-
+
+/cygdrive/d/UCI_MCS/261P/proj2/main.cpp
+iostream
+-
+MyRBTree.h
+/cygdrive/d/UCI_MCS/261P/proj2/MyRBTree.h
+
+/cygdrive/d/UCI_MCS/261P/proj2/runtimeexcept.hpp
+string
+-
+

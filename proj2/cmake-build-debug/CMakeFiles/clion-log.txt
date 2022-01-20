@@ -1,0 +1,4 @@
+C:\Users\SQ\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/c++.exe -G "CodeBlocks - Unix Makefiles" /cygdrive/d/UCI_MCS/261P/proj2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/UCI_MCS/261P/proj2/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/proj1.dir/main.cpp.o CMakeFiles/proj1.dir/Wordset.cpp.o CMakeFiles/proj1.dir/convert.cpp.o  -o proj1.exe -Wl,--out-implib,libproj1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

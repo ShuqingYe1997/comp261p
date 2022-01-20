@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/UCI_MCS/261P/proj0/LLQueue.hpp
+runtimeexcept.hpp
+/cygdrive/d/UCI_MCS/261P/proj0/runtimeexcept.hpp
+node.hpp
+/cygdrive/d/UCI_MCS/261P/proj0/node.hpp
+
+/cygdrive/d/UCI_MCS/261P/proj0/main.cpp
+iostream
+-
+LLQueue.hpp
+/cygdrive/d/UCI_MCS/261P/proj0/LLQueue.hpp
+
+/cygdrive/d/UCI_MCS/261P/proj0/node.hpp
+
+/cygdrive/d/UCI_MCS/261P/proj0/runtimeexcept.hpp
+string
+-
+
